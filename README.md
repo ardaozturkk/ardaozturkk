@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DevOzturk.DevOzturk&left_color=cadetblue&right_color=gray&left_text=Guest"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ardaozturkk.ardaozturkk&left_color=cadetblue&right_color=gray&left_text=Guest"  />
 </div>
 
 ### Hi there 👋
